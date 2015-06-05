@@ -1,4 +1,4 @@
-angular-symfony
+angular-symfony  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kernel64/angular-symfony/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kernel64/angular-symfony/?branch=master)
 ===============
 
 Project Bootstrap for an angularJS + Symfony webservices project.
